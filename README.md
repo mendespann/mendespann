@@ -1,6 +1,6 @@
 # Olá, eu sou a Pamela :)👋
 
-### 💻 Faço ciência da computação
+### 💻 Cursando Ciência da Computação na Universidade Federal de Uberlândia
 ### 📚 Estou estudando HTML, CSS e Javascript 
 
 ##
