@@ -1,9 +1,10 @@
 # Olá, eu sou a Pamela :)👋
 
-#### 💻 Cursando Ciência da Computação na Universidade Federal de Uberlândia
-#### 📚 Estudando HTML, CSS e Javascript 
+- 💻 Cursando Ciência da Computação na Universidade Federal de Uberlândia
+- 📚 Estudando HTML, CSS e Javascript 
+- 📫 Contato: pammendesr2@gmail.com
 
-##
+#
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamelamendesr/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/pamelamendes)
@@ -13,7 +14,7 @@
 <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendespann&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-##
+#
 
 <div> 
       <img height = "50" width "60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
