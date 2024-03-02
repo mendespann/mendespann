@@ -1,8 +1,8 @@
 # Olá, eu sou a Pamela :)👋
 
 - 💻 Cursando Ciência da Computação na Universidade Federal de Uberlândia
-- 📚 Estudando HTML, CSS e Javascript 
-- 📫 Contato: pammendesr2@gmail.com
+- 📚 Estudando Java e Spring Boot
+- 📫 Contato: pamelamendesyt@gmail.com
 
 #
 
