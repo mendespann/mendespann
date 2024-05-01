@@ -1,7 +1,8 @@
 # Olá, eu sou a Pamela :)👋
 
-- 💻 Cursando Ciência da Computação na Universidade Federal de Uberlândia
-- 📚 Estudando Java e Spring Boot
+- 💻 Desenvolvedora Back-end Java
+- 🍃 Me aprofundando no framework Spring e suas vertentes
+- 📚 Cursando Ciência da Computação na Universidade Federal de Uberlândia
 - 📫 Contato: pamelamendesyt@gmail.com
 
 #
